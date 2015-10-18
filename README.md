@@ -1,2 +1,2 @@
 # MapResource
-Display map from Bing Maps.
+Display a map from Bing Maps.  I am planning to move this into a Web Resource inside a Dynamics CRM application.  It should be able to allow a user to display a map with the location of any entity that has been updated with lat/lon fields.  An example would be the location of Accounts assigned to a particular Account Manager or Contacts owned by a selected user.  I am learning about the Bing Maps API and will do all of the initial development outside of CRM and then make the necessary changes to support this code within a Web Resource.
